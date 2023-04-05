@@ -27,7 +27,7 @@ Richmond Elikplim Yao Abake
 Faith Berida
 Elvis Darko
 Aliyyah Adebayo
-Yollam Chielnje Manda
+Yollam Chielenje Manda
 Joseph Gikubu
 
 
