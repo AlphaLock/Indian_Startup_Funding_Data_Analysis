@@ -22,6 +22,14 @@ The 2021 dataset is made up of information such as;
 Company/brand, Year founded, Company Headquarters location,	Sector	What it does, Founders,	Investors, Funding Amount and Stage
 
 
+# Authors
+Richmond Elikplim Yao Abake
+Faith Berida
+Elvis Darko
+Aliyyah Adebayo
+Yollam Chielnje Manda
+Joseph Gikubu
+
 
 
 
